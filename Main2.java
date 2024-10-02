@@ -373,10 +373,7 @@ public class Main2 {
 		
 		double height2 = Double.parseDouble(JOptionPane.showInputDialog("Please enter your height in meters, this time using \",\" as a separator :)"));
 		
-		JOptionPane.showMessageDialog(null, "You are " + height2 + " m tall"); */
-		
-		
-//---------------------------GUI----------------------------02-10-20024-		
+		JOptionPane.showMessageDialog(null, "You are " + height2 + " m tall"); */		
 		
 		
 	}	
